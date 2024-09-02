@@ -15,7 +15,7 @@ export function App() {
         </header>
         <main className="main">
           <Logos />
-          <Title />
+          <Title subtitle="This is just a test" />
           <Counter />
           <LearnMore />
         </main>
