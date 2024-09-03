@@ -16,7 +16,7 @@ export function App() {
         <main className="main">
           <Logos />
           <Title title="This is the title" subtitle="This is a subtitle" />
-          <Title title="This is bullshi" />
+          <Title title="This is bullshi" isImportant />
           <Counter />
           <LearnMore />
         </main>
