@@ -2,7 +2,9 @@
 
 ## Course Plan
 
-- Props
+&#x2610; &#x2611; &#x2612;
+
+- &#x2611; Props
 - Passing local state to child components
 - One component is the trigger, other has the effect
 - Global state
