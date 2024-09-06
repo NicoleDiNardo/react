@@ -5,8 +5,8 @@
 &#x2610; &#x2611; &#x2612;
 
 - &#x2611; Props
-- Passing local state to child components
-- One component is the trigger, other has the effect
+- &#x2611; Passing local state to child components
+- &#x2611; One component is the trigger, other has the effect
 - Global state
 - API calls
 - Routing
